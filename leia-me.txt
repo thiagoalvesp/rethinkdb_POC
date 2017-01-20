@@ -1,0 +1,4 @@
+1 - startar o rethinkdb
+2 - startar o db.js
+3 - startar o server.js
+4 - acessar o http://localhost:3000/ no navegador.
