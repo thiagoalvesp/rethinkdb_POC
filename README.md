@@ -4,10 +4,10 @@ Esse projeto foi criado com o objetivo de entender e estudar o Banco NoSQL Rethi
 
 Como Usar: 
 
-1 - startar o rethinkdb 
+1 - Startar o rethinkdb 
 
-2 - startar o db.js 
+2 - Startar o db.js 
 
-3 - startar o server.js 
+3 - Startar o server.js 
 
-4 - acessar o http://localhost:3000/ no navegador.
+4 - Acessar o http://localhost:3000/ no navegador.
